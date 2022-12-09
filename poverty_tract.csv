@@ -1,0 +1,43 @@
+variable,count,share,var
+Total jobs,"2,017",100.0%,Job
+Age 29 or younger,451,22.4%,Age
+Age 30 to 54,"1,119",55.5%,Age
+Age 55 or older,447,22.2%,Age
+"$1,250 per month or less",404,20.0%,Wage
+"$1,251 to $3,333 per month",818,40.6%,Wage
+"More than $3,333 per month",795,39.4%,Wage
+"Agriculture, Forestry, Fishing and Hunting",11,0.5%,Industry
+"Mining, Quarrying, and Oil and Gas Extraction",2,0.1%,Industry
+Utilities,13,0.6%,Industry
+Construction,83,4.1%,Industry
+Manufacturing,226,11.2%,Industry
+Wholesale Trade,121,6.0%,Industry
+Retail Trade,192,9.5%,Industry
+Transportation and Warehousing,160,7.9%,Industry
+Information,67,3.3%,Industry
+Finance and Insurance,47,2.3%,Industry
+Real Estate and Rental and Leasing,29,1.4%,Industry
+"Professional, Scientific, and Technical Services",97,4.8%,Industry
+Management of Companies and Enterprises,28,1.4%,Industry
+"Administration & Support, Waste Management and Remediation",174,8.6%,Industry
+Educational Services,127,6.3%,Industry
+Health Care and Social Assistance,266,13.2%,Industry
+"Arts, Entertainment, and Recreation",37,1.8%,Industry
+Accommodation and Food Services,199,9.9%,Industry
+Other Services (excluding Public Administration),75,3.7%,Industry
+Public Administration,63,3.1%,Industry
+White Alone,"1,344",66.6%,Race
+Black or African American Alone,361,17.9%,Race
+American Indian or Alaska Native Alone,37,1.8%,Race
+Asian Alone,226,11.2%,Race
+Native Hawaiian or Other Pacific Islander Alone,7,0.3%,Race
+Two or More Race Groups,42,2.1%,Race
+Not Hispanic or Latino,883,43.8%,Ethnicity
+Hispanic or Latino,"1,134",56.2%,Ethnicity
+Less than high school,447,22.2%,Education
+"High school or equivalent, no college",338,16.8%,Education
+Some college or Associate degree,460,22.8%,Education
+Bachelor's degree or advanced degree,321,15.9%,Education
+Educational attainment not available (workers aged 29 or younger),451,22.4%,Education
+Male,"1,065",52.8%,Sex
+Female,952,47.2%,Sex
